@@ -1,5 +1,5 @@
 <?php 
-namespace LocalbrandingDe\ExtendedProductDetailBundle\EventListener;
+namespace LocalbrandingDe\SiteTeamBundle\EventListener;
 use Contao\CoreBundle\ServiceAnnotation\Hook;
 use Contao\Widget;
 
