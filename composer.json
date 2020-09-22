@@ -1,5 +1,5 @@
 {
-	"name" : "localbranding-de/siteTeam-bundle",
+	"name" : "localbranding-de/siteteam-bundle",
 	"type" : "contao-bundle",
 	"version" : "1.0.0",
 	"description" : "LocalBRanding Extension for Team Site",
@@ -42,7 +42,7 @@
 		}
 	},
 	"support" : {
-		"issues" : "https://github.com/localbranding-de/siteTeam_bundle/issues",
-		"source" : "https://github.com/localbranding-de/siteTeam_bundle"
+		"issues" : "https://github.com/localbranding-de/siteteam_bundle/issues",
+		"source" : "https://github.com/localbranding-de/siteteam_bundle"
 	}
 }
