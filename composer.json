@@ -1,7 +1,7 @@
 {
 	"name" : "localbranding-de/siteteam-bundle",
 	"type" : "contao-bundle",
-	"version" : "1.4,
+	"version" : "1.5.1,
 	"description" : "LocalBRanding Extension for Team Site",
 	"license" : "LGPL-3.0-or-later",
 	"authors" : [{
