@@ -14,13 +14,6 @@
 		"contao/core-bundle" : "4.4.*",
 		"symfony/framework-bundle" : "^3.3"
 	},
-	 "config": {
-        "preferred-install": {
-            "contao/*": "source",
-            "contao-components/*": "source",
-            "*": "dist"
-        }
-    },
 	"conflict" : {
 		"contao/core" : "*",
 		"contao/manager-plugin" : "<2.0 || >=3.0"
@@ -36,8 +29,7 @@
 		"symfony/phpunit-bridge" : "^3.2"
 	},
 	"extra" : {
-		"contao-manager-plugin" : "LocalbrandingDe\\SiteTeamBundle\\ContaoManager\\Plugin",
-		 "contao-component-dir": "assets"
+		"contao-manager-plugin" : "LocalbrandingDe\\SiteTeamBundle\\ContaoManager\\Plugin"
 	},
 	
 	"autoload" : {
