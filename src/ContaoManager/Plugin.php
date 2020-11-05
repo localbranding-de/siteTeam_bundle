@@ -12,7 +12,7 @@ namespace LocalbrandingDe\SiteTeamBundle\ContaoManager;
 
 use Contao\CoreBundle\ContaoCoreBundle;
 use Contao\ManagerPlugin\Bundle\BundlePluginInterface;
-use Con-tao\ManagerPlugin\Bundle\Config\BundleConfig;
+use Contao\ManagerPlugin\Bundle\Config\BundleConfig;
 use Contao\ManagerPlugin\Bundle\Parser\ParserInterface;
 use LocalbrandingDe\SiteTeamBundle\SiteTeamBundle;
 
